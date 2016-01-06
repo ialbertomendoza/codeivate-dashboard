@@ -1,8 +1,28 @@
 {
   "users":[
     {
+      "usuario": "Neri",
+      "codeivate": "neris"
+    },
+    {
       "usuario": "Gosh",
       "codeivate": "goshmx"
+    },
+    {
+      "usuario": "Tunas",
+      "codeivate": "diazsa00"
+    },
+    {
+      "usuario": "Tino",
+      "codeivate": "rokudou"
+    },
+    {
+      "usuario": "Eli",
+      "codeivate": "miranda"
+    },
+    {
+      "usuario": "Martín",
+      "codeivate": "martinsantiago"
     }
   ]
 }
