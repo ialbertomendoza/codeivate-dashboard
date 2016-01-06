@@ -1,0 +1,5 @@
+.DS_Store
+app/scripts/users.json
+bower_components/
+node_modules
+.tmp/
